@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# これは「アプリケーションを作ろうの1章の学習内容です。
